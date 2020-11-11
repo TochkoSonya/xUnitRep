@@ -5,3 +5,9 @@ D:\Deach_3\1_сем\Epam_test\CleanCode_air\Calculator\Calculator\obj\Debug\Calc
 D:\Deach_3\1_сем\Epam_test\CleanCode_air\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 D:\Deach_3\1_сем\Epam_test\CleanCode_air\Calculator\Calculator\obj\Debug\Calculator.exe
 D:\Deach_3\1_сем\Epam_test\CleanCode_air\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Deach_3\1_сем\Epam_test\xUnitRep\Calculator\bin\Debug\Calculator.exe.config
+D:\Deach_3\1_сем\Epam_test\xUnitRep\Calculator\bin\Debug\Calculator.exe
+D:\Deach_3\1_сем\Epam_test\xUnitRep\Calculator\bin\Debug\Calculator.pdb
+D:\Deach_3\1_сем\Epam_test\xUnitRep\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Deach_3\1_сем\Epam_test\xUnitRep\Calculator\obj\Debug\Calculator.exe
+D:\Deach_3\1_сем\Epam_test\xUnitRep\Calculator\obj\Debug\Calculator.pdb
