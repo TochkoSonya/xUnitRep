@@ -1,1 +1,11 @@
 /packages
+Debug/
+Release/
+.vs/
+*TestResult.xml
+nunit-*.xml
+*.obj
+*.meta
+*.pdb
+*.tmp
+*.nupkg

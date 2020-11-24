@@ -16,11 +16,11 @@ namespace Calculator.Tests
             double firstValue = 10;
             double secondValue = 23;
             double expectedResult = 33;
-            double actualResult = 0;
+           // double actualResult = 0;
 
-            actualResult = calculator.SumOfTwoValues(firstValue, secondValue);
+          //  actualResult = calculator.SumOfTwoValues(firstValue, secondValue);
 
-            Assert.AreEqual(expectedResult, actualResult);
+            Assert.AreEqual(expectedResult, calculator.SumOfTwoValues(firstValue, secondValue));
         }
 
         [Test]
